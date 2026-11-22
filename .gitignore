@@ -1,0 +1,4 @@
+.build/
+build/
+Frameshot.app
+.DS_Store

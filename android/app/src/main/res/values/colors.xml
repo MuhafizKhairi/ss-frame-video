@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="window_bg">#FFF7F7FB</color>
+    <color name="icon_indigo">#FF6366F2</color>
+    <color name="icon_violet">#FF9E5CF7</color>
+    <color name="icon_pink">#FFED4D99</color>
+</resources>
